@@ -1,6 +1,6 @@
 # Demo Robot
 
-In this project, I used Python to write scripts for switching maps, detecting obstacles, and stopping the robot. As I am proficient in Python, I opted to implement these features in Python. While I have limited exposure to C++, I have written some C++ code for ROS2 hardware control, and I believe that with practice, I can improve. In fact, I recently attempted to implement custom navigation plugins from the Nav2 stack but due to time constraints, I completed the task using Python. However, I am eager to learn how to create custom navigation plugins using the Behavior Tree (BT) Navigator.
+In this Task, I used Python to write scripts for switching maps, detecting obstacles, and stopping the robot. As I am proficient in Python, I opted to implement these features in Python. While I have limited exposure to C++, I have written some C++ code for ROS2 hardware control, and I believe that with practice, I can improve. In fact, I recently attempted to implement custom navigation plugins from the Nav2 stack but due to time constraints, I completed the task using Python. However, I am eager to learn how to create custom navigation plugins using the Behavior Tree (BT) Navigator.
 
 ## Key Features
 
